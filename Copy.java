@@ -1,6 +1,7 @@
 import java.io.*;
 
 /**
+ * This is just a simple Java program to demo the capabilities of git/github.
  *
  * @author Yuksel Gunal
  */
